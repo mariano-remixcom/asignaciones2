@@ -3,7 +3,7 @@
   "description": "Vue.js 3 Vite starter template with Pinia, Vue Router, Bootstrap and more.",
   "version": "0.0.0-semantic-release",
   "license": "MIT",
-  "repository": "https://github.com/kouts/vue3-vite-starter-template",
+  "repository": "https://github.com/mariano-remixcom/asignaciones",
   "private": true,
   "scripts": {
     "dev": "vite",
